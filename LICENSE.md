@@ -1,4 +1,4 @@
-# 
+# elite scalping bot for derivatives Plugin | isolated-margin + price-monitoring is the best scalping bot for derivatives, featuring isolated-margin and price-monitoring. Smart,
 
 
 
